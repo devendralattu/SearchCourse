@@ -1,6 +1,8 @@
 # SearchCourse
 Using api.umbc.me to fetch courses and professors list
 
+URL: https://devendralattu.github.io/SearchCourse/
+
 Say, Prof. name: John Park<br>
 Department: CMSC
 
